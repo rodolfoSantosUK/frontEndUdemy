@@ -1,0 +1,28 @@
+footer {
+    background-color: gray;
+}
+
+ body {
+     background-color: azure;
+ }
+
+ div {
+     border : 1px solid black;
+     margin: 10px;
+ }
+
+ span {
+     background-color: yellow;
+ }
+
+ .myClass  {
+     background-color: blue;
+ }
+
+#section1 {
+    background-color: green;
+}
+
+#section2 {
+    background-color: purple;
+}
