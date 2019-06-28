@@ -1,0 +1,36 @@
+footer {
+    background-color: gray;
+}
+
+ body {
+     background-color: azure;
+ }
+
+ div {
+     border : 1px solid black;
+     margin: 10px;
+ }
+
+ span {
+     background-color: yellow;
+ }
+
+ .myClass  {
+     background-color: blue;
+ }
+
+#section1 {
+    background-color : rgb(255,0,255);
+}
+
+#section2 {
+    background-color: rgba(255,0,0,255);
+}
+
+header {
+    background-color: #FF0000; 
+}
+
+nav {
+    background-color: #F00;
+}

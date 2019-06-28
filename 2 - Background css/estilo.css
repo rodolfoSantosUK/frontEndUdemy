@@ -1,0 +1,47 @@
+footer {
+    background-color: gray;
+}
+
+ body {
+     background-color: azure;
+ }
+
+ div {
+     border : 1px solid black;
+     margin: 10px;
+ }
+
+ span {
+     background-color: yellow;
+ }
+
+ .myClass  {
+     background-color: blue;
+ }
+
+#section1 {
+    background-color : rgb(255,0,255);
+}
+
+#section2 {
+    background-color: rgba(255,0,0,255);
+}
+
+header {
+    background-image: url("http://lorempixel.com/g/400/200/") ; 
+    background-repeat: no-repeat;
+    height: 200px; 
+    background-position: bottom right;
+    background-color: #FFDD00;  
+
+  /*Forma abreviada 
+
+  background: url("http://lorempixel.com/g/400/200/") no-repeat bottom right/ 80% red ;
+
+  height: 250px; */
+
+}
+
+nav {
+    background-color: #F00;
+}

@@ -1,0 +1,45 @@
+footer {
+    background-color: gray;
+}
+
+ body {
+     background-color: azure;
+ }
+
+ div {
+     border : 1px solid black;
+     margin: 10px;
+ }
+
+ span {
+     background-color: yellow;
+ }
+
+ .myClass  {
+     background-color: blue;
+ }
+
+#section1 {
+     
+}
+
+#section2 {
+    
+}
+ 
+
+nav {
+
+}
+
+
+header {
+
+    border : 1px dotted black;
+    border-radius: 20px 20px 5px 20px;
+    padding: 10px;
+    background-color: aquamarine;
+
+}
+
+
