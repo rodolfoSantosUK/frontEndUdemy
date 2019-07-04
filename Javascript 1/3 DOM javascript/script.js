@@ -1,6 +1,8 @@
-var myOutput  = document.getElementById("output");
+// Acessando elementos html atraves do javascript
 
+var myOutput  = document.getElementById("output");
 console.dir(myOutput);
+
 
 myOutput.innerText = "Novo CONTEUDO";
 myOutput.style.color = "red" ; 
@@ -16,7 +18,6 @@ document.getElementById("btn1").addEventListener("click", function() {
     this.style.backgroundColor = "gray";
 
 } )
-
 
 // como temos objetos iguais ira retornar uma collection 
 var myBtn =  document.getElementsByClassName("btn");
