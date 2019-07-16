@@ -10,7 +10,6 @@ var meuObjeto = {
         {"primeiroNome" : "Monica",  "empresa"  : "TOOLS"},
         {"primeiroNome" : "Rosana",  "empresa"  : "unknown"}
     ]
-       
 };
 
 document.getElementById("btn1").onclick = function() {
