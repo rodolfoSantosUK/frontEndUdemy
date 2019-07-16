@@ -1,0 +1,45 @@
+footer { 
+}
+
+ body { 
+ }
+
+ div { 
+ }
+
+ span { 
+     background-color: bisque ; 
+ }
+
+span::before {
+    
+    content: "Rodolfo";
+
+}
+
+ .myClass  { 
+ }
+
+#section1 {
+      
+
+}
+
+#section2 {
+     
+
+}
+ 
+nav {
+
+}
+
+header { 
+background-color: green;
+}
+
+headr:hover {
+    background-color: red;
+}
+
+
